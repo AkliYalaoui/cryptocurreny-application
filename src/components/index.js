@@ -1,0 +1,9 @@
+export { default as NavBar } from "./NavBar";
+export { default as Overlay } from "./Overlay";
+export { default as TopCrypto } from "./TopCrypto";
+export { default as Footer } from "./Footer";
+export { default as GlobalStats } from "./GlobalStats";
+export { default as Currencies } from "./Currencies";
+export { default as NewsComponent } from "./NewsComponent";
+export { default as Loading } from "./Loading";
+export { default as LineChart } from "./LineChart";
